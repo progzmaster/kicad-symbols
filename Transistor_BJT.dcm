@@ -283,6 +283,18 @@ K PNP Transistor
 F http://www.fairchildsemi.com/ds/BC/BC636.pdf
 $ENDCMP
 #
+$CMP BC639
+D 100V Vce, 1A Ic, NPN Medium Power Transistor, TO-92
+K BC639 NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC639.pdf
+$ENDCMP
+#
+$CMP BC640
+D 100V Vce, 1A Ic, PNP Medium Power Transistor, TO-92
+K BC640 PNP Transistor
+F http://www.fairchildsemi.com/ds/BC/BC640.pdf
+$ENDCMP
+#
 $CMP BC807
 D 0.8A Ic, 45V Vce, PNP Transistor, SOT-23
 K PNP Transistor
